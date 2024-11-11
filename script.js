@@ -1,5 +1,5 @@
-let firstname = "devaram";
-let lastname = "roshan";
+let firstname = "orsu";
+let lastname = "shiva";
 console.log(`the concat of ${firstname} and ${lastname} is ${firstname + lastname}`);
 
 let string = "hello everyone how are you?";
